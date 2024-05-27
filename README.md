@@ -6,6 +6,12 @@ Find the source files [here](https://github.com/aslamcodes/CaberSLN)
 - As a user I would like to ==sign in== with my credentials
 
 - As a user I would want to ==create a new account== in the platform
+
+- As a user I would want to ==register as driver== in the platform
+
+- As a user I would want to ==register as passenger== in the platform
+
+
 ## Passenger
 
 - As a passenger I want to see ==list of cabs== available in my area so that I know I can book taxis
